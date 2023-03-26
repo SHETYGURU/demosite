@@ -1,0 +1,10 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.hel{
+    background-color: rgb(59, 120, 174);
+    height: 150vh;
+    width: 100%;
+}
